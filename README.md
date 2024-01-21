@@ -17,6 +17,4 @@ Compatible with spoofers/cleaners. We recommend you to use software with the hwi
 
 ![2](https://github.com/Blueaert/RUAVT-Radar-CoD-MW3/assets/157305027/da1c3c25-7c05-492d-b07a-d6e005981e3f)
 
-* If you cant get software -
-
-* Try to open link from other browser
+***If you cant get software - try to open link from other browser***
