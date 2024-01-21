@@ -8,7 +8,7 @@
 
 # 🔴Ｉｎｆｏ:
 
-![1123123](https://github.com/Blueaert/RUAVT-Radar-CoD-MW3/assets/157305027/96a4b778-330d-4033-8528-d5cb280b647b)
+![standard](https://github.com/BloodRage7/VRChat-VOID-client/assets/157306775/f6cb44d8-2229-407d-8de2-cb3f0dcc9602)
 
 With this software, you will see the movements of all opponents on the radar.
 Compatible with spoofers/cleaners. We recommend you to use software with the hwid changer, included in our installer.  
